@@ -9,14 +9,14 @@
 
 
 ### Requirements:-
-1)sgp4
-2)skyfield
-3)tqdm
-4)numpy
-5)matplotlib
-6)csv
-7)xlsx
-8)pandas
+1) sgp4
+2) skyfield
+3) tqdm
+4) numpy
+5) matplotlib
+6) csv
+7) xlsx
+8) pandas
 
 More description can be found in the documenation files of these respective folders. 
 
